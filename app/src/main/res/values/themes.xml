@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base Light Theme -->
+    <style name="Base.Theme.GroceryList" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">#FFFFFF</item>
+        <item name="colorPrimaryDark">#EAEAEA</item>
+        <item name="colorAccent">#4CAF50</item>
+        <item name="colorSurface">#F7F7F7</item>
+        <item name="colorOnSurface">#000000</item>
+        <item name="colorOnBackground">#000000</item>
+    </style>
+
+    <style name="Theme.GroceryList" parent="Base.Theme.GroceryList" />
+</resources>
+
+    <!--Light Ver-->

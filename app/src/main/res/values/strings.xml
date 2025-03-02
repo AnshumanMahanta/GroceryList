@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GroceryList</string>
+    <string name="split_the_bill">Split the Bill</string>
+    <string name="number_of_people">Number of People:</string>
+    <string name="_1">1</string>
+    <string name="add">Add</string>
+    <string name="bought">Bought</string>
+</resources>

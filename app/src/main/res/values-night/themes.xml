@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base Dark Theme -->
+    <style name="Base.Theme.GroceryList" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">#121212</item>
+        <item name="colorPrimaryDark">#1E1E1E</item>
+        <item name="colorAccent">#4CAF50</item>
+        <item name="colorSurface">#222222</item>
+        <item name="colorOnSurface">#FFFFFF</item>
+        <item name="colorOnBackground">#FFFFFF</item>
+    </style>
+
+    <style name="Theme.GroceryList" parent="Base.Theme.GroceryList" />
+</resources>
